@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672114515 source:c:\users\ilham\onedrive\documents\tugas codingan\uas aplro c\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+

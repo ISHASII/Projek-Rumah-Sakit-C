@@ -1,0 +1,13 @@
+
+				Data Pasien RS AIDA MEDIKA
+| No.Antrian |	Atas Nama	|  Jenis Kelamin | Umur | Golongan Darah | Alamat | Pemeriksa | Diagnosa | Total Transaksi |
+||	     	|	  ilham  	|	  4242386  	|	     	|	  o  	|	  bekasi  	|	  zeta  	|
+				Data Pasien RS AIDA MEDIKA
+| No.Antrian |	Atas Nama	|  Jenis Kelamin | Umur | Golongan Darah | Alamat | Pemeriksa | Diagnosa | Total Transaksi |
+||	     	|	  il  	|	  4242386  	|	   b  	|	  o  	|	  pp  	|	  pp  	|
+				Data Pasien RS AIDA MEDIKA
+| No.Antrian |	Atas Nama	|  Jenis Kelamin | Umur | Golongan Darah | Alamat | Pemeriksa | Diagnosa | Total Transaksi |
+||	     	|	  Ilham  	|	  4242386  	|	     	|	  o  	|	  ppp  	|	  kkk  	|
+				Data Pasien RS AIDA MEDIKA
+| No.Antrian |	Atas Nama	|  Jenis Kelamin | Umur | Golongan Darah | Alamat | Pemeriksa | Diagnosa | Total Transaksi |
+||	     	|	  il  	|	  4242386  	|	   	  	|	  o  	|	  bks  	|	  kk  	|

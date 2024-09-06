@@ -1,0 +1,24 @@
+
+Data Pasien RS ABIFATHIYA
+			Atas Nama       : ham
+			Jenis Kelamin   : p
+			Umur            : 4237720
+			Tinggi Badan    : 4237696
+			Berat Badan     : 4237772
+			Golongan Darah  : z
+			Alamat          : bks
+			Pemeriksa       : zz
+			Diagnosa        : dbd
+
+
+Data Pasien RS ABIFATHIYA
+			Atas Nama       : 1
+			Jenis Kelamin   : 1
+			Umur            : 4237720
+			Tinggi Badan    : 4237696
+			Berat Badan     : 4237772
+			Golongan Darah  : 
+			Alamat          : 1
+			Pemeriksa       : 1
+			Diagnosa        : 1
+
